@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile:</string>
+    <string name="myName">Jackson Maina Gichuiri</string>
+    <string name="android">Android</string>
+    <string name="email">jackgichuiri@gmail.com</string>
+    <string name="phone_number">0708807265</string>
+    <string name="slack">positive21vibe</string>
+    <string name="slack_name">Slack Username:</string>
+    <string name="track">Track</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="about">ABOUT ALC</string>
+    <string name="profile">MY Profile</string>
+    <string name="country">Country</string>
+    <string name="country1">Kenya</string>
+    <string name="phone_number1">Phone Number:</string>
+</resources>
+
